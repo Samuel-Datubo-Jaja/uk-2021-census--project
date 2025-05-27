@@ -1,3 +1,11 @@
+## 📄 Project Documentation
+- [Click here to read the full project PDF](./docs/771766_DS_Census_Project_Report_202403820.pdf)
+
+## 📊 Dataset
+- Located in /data/raw/ and /data/raw/census0.csv/
+- Source: Office for National Statistics ONS [United Kingdom]
+
+
 This report looks at various data science processes completed for the United Kingdom census project of 2021 to be specific. It includes aspects such as cleaning data, analyzing them and making recommendations to local government concerning land development as well as investment decision. The analysis looked at age distribution patterns, unemployment trends, religious groups, married individuals and divorcees, house occupancy rates, immigration and emigration rates, birth rates, death rates, number of university students, and commuters. Through careful analysis, the report suggests/ranks constructing a train station for the significant 50.53% of the population and investing in employment and training programs based on an unemployment rate above 8%. In making these recommendations, statistical analysis and hypothesis testing were conducted where necessary, to suit various needs of the town.
 ![Age_Pyramid_by_Gender](https://github.com/user-attachments/assets/c74c614f-3f4b-4199-be73-818d33e88b54)
 
