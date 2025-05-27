@@ -2,7 +2,7 @@
 - [Click here to read the full project PDF](./docs/771766_DS_Census_Project_Report_202403820.pdf)
 
 ## 📊 Dataset
-- Located in /data/raw/ and /data/raw/census0.csv/
+- [Located in] (./data/raw/census0.csv)
 - Source: Office for National Statistics ONS [United Kingdom]
 
 
